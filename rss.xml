@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>MyRssTitle</title>
+<description>MyRssDescription</description>
+<link>rssUrl</link>
+<ttl>1</ttl>
+<image><url>rssImageUrl</url><title>MyRssTitle</title><link>rssUrl</link></image>
+<copyright>www.stuffaboutcode.com (2012)</copyright>
+<lastBuildDate>Fri, 30 Nov 2012 12:23:17 +0000</lastBuildDate>
+<pubDate>Fri, 30 Nov 2012 12:23:17 +0000</pubDate>
+<webMaster>nico.de.ceulaer@gmail.com</webMaster>
+<item>
+<title>The Burkiss Way: Series 3 15. The Next to Last Burkiss Way</title>
+<description>Waves are parted as the team take on the Holly Bibbly (or Holy Bible).</description>
+<link>rssDownloadUrlThe_Burkiss_Way_Series_3_-_15._The_Next_to_Last_Burkiss_Way_b007jrr7_default.mp3</link>
+<guid>rssDownloadUrlThe_Burkiss_Way_Series_3_-_15._The_Next_to_Last_Burkiss_Way_b007jrr7_default.mp3</guid>
+<pubDate>Fri, 30 Nov 2012 11:24:19 +0000</pubDate>
+<enclosure url="rssDownloadUrlThe_Burkiss_Way_Series_3_-_15._The_Next_to_Last_Burkiss_Way_b007jrr7_default.mp3" length="34572800" type="audio/mpeg" />
+</item>
+</channel>
+</rss>
